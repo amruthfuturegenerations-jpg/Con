@@ -1,0 +1,6 @@
+{
+  "name": "ConstructPro - Field & Site Task Manager PWA",
+  "description": "Industrial offline-first PWA task management system for site engineers and field supervisors with multi-project tabs, 10-year calendar picker, person memory, and attachments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
